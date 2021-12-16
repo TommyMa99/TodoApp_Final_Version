@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add_todo">add_todo</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="add_word">Add word</string>
+    <string name="text">text</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="day_time_to_remind">day/time to remind</string>
+    <string name="remind_me">Remind me?</string>
+    <string name="deadline">Deadline</string>
+    <string name="select">select</string>
+    <string name="tagsDisplay">Tags:</string>
+    <string name="more_details">More Details</string>
+    <string name="task_title_1">Task Title:</string>
+    <string name="what_time">what time?</string>
+
+    <string-array name="tags_todo">
+        <item> </item>
+        <item>Food</item>
+        <item>Play</item>
+        <item>Study</item>
+        <item>Sleep</item>
+        <item>Eat</item>
+        <item>Coding</item>
+        <item>CS5520</item>
+        <item>CS5010</item>
+    </string-array>
+</resources>

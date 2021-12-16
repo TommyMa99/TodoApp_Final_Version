@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "622192605814",
+    "firebase_url": "https://todoapp-c5997-default-rtdb.firebaseio.com",
+    "project_id": "todoapp-c5997",
+    "storage_bucket": "todoapp-c5997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622192605814:android:ea4d863f88178efa8cfd57",
+        "android_client_info": {
+          "package_name": "edu.neu.khoury.madsea.majianqing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622192605814-d8vuuu1nkahesvrbidoo431u4k887ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQe_RuZ_b4ZKNBub7xLN6knoGUy7vMAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622192605814-d8vuuu1nkahesvrbidoo431u4k887ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
